@@ -16,6 +16,6 @@ keywords
 ======
 sustainability; complex systems; system dynamics; supply chain; operations research.
 
-![climatestripes](viniciuspr88.github.io/images/climatestripes.jpg) <font size = "1"> Credits: Ed Hawkins, University of Reading </font>
+![climatestripes](viniciuspr88.github.io/images/climatestripes.jpg) <font size = "1"> Credits: CLimate Stripes, Ed Hawkins, University of Reading </font>
 
 
