@@ -16,7 +16,7 @@ keywords
 ======
 sustainability; complex systems; system dynamics; supply chain; operations research.
 
-![climatestripes](images/climatestripes.jpg)
+![climatestripes](viniciuspr88.github.io/images/climatestripes.jpg)
 
 
 
