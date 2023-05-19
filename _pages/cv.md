@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Engineering, DTU, 2018
+* GCLOG, Logistics and Supply Chain Management, MIT, 2014
+* M.Sc. in Operations Research, UFSCar, 2014
+* B.Sc. in Industrial Engineering, UFSCar, 2011
 
+{::comment}
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{:/comment}
