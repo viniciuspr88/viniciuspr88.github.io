@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: "modelling and simulating complex social-ecological systems"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
