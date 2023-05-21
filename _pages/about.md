@@ -18,8 +18,10 @@ sustainability; ecological economics; complex systems; system dynamics; supply c
 
 ![climatestripes](viniciuspr88.github.io/images/climatestripes.jpg) <font size = "1"> Credits: Climate Stripes, Ed Hawkins, University of Reading </font>
 <br>
-[My Strathclyde page](https://www.strath.ac.uk/staff/picanco_rodriguesviniciusdr/)
+[My Strathclyde page](https://www.strath.ac.uk/staff/picanco_rodriguesviniciusdr/) 
+<br>
 [My Insper page (in portuguese)](https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/vinicius-picanco-rodrigues/)
+<br>
 [My Lattes CV (in portuguese)](https://lattes.cnpq.br/6693329429907988)   
 
 
