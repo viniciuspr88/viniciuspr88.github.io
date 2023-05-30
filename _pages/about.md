@@ -22,8 +22,8 @@ sustainability; ecological economics; complex systems; system dynamics; supply c
 <br>
 [My Strathclyde page](https://www.strath.ac.uk/staff/picanco_rodriguesviniciusdr/) 
 <br>
-[My Insper page (in portuguese)](https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/vinicius-picanco-rodrigues/)
+[My Insper page (in Portuguese)](https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/vinicius-picanco-rodrigues/)
 <br>
-[My Lattes CV (in portuguese)](https://lattes.cnpq.br/6693329429907988)   
+[My Lattes CV (in Portuguese)](https://lattes.cnpq.br/6693329429907988)   
 
 
