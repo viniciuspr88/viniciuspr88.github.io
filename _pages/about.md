@@ -16,7 +16,7 @@ My academic background includes a Ph.D. in Engineering from the Technical Univer
 
 keywords
 ======
-sustainability; complex systems; system dynamics; supply chain management; operations research; food supply chains; humanitarian supply chains; ecological economics;.
+sustainability; complex systems; system dynamics; supply chain management; operations research; food supply chains; humanitarian supply chains; ecological economics; systems engineering.
 
 ![climatestripes](viniciuspr88.github.io/images/climatestripes.jpg) <font size = "1"> Credits: Climate Stripes, Ed Hawkins, University of Reading </font>
 <br>
