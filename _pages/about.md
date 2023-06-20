@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "unleashing the power of supply chains: modelling and simulating complex social-ecological systems for high-leverage interventions"
+title: "unleashing the power of supply chains: modelling and simulating complex social-ecological systems for high-leverage policies"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
