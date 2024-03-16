@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vinicius Picanço-Rodrigues"
+title                    : "Vinicius Picanço Rodrigues"
 title_separator          : "-"
-name                     : &name "Vinicius Picanço-Rodrigues"
+name                     : &name "Vinicius Picanço Rodrigues"
 description              : &description "personal description"
 url                      : https://viniciuspr88.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
