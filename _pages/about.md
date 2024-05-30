@@ -22,7 +22,7 @@ sustainability; complex systems; system dynamics; supply chain management; opera
 <br>
 <br>
 <br>
-[My Strathclyde page](https://www.strath.ac.uk/staff/picanco_rodriguesviniciusdr/) 
+[My Strathclyde page](https://pureportal.strath.ac.uk/en/persons/vinicius-picanco-rodrigues) 
 <br>
 [My Insper page (in Portuguese)](https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/vinicius-picanco-rodrigues/)
 <br>
