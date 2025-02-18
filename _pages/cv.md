@@ -13,10 +13,11 @@ Education
 ======
 * Ph.D in Engineering, DTU, 2018
 * GCLOG, Logistics and Supply Chain Management, MIT, 2014
+* M.Sc. in Complex Systems Modeling, USP, 2026
 * M.Sc. in Operations Research, UFSCar, 2014
 * B.Sc. in Industrial Engineering, UFSCar, 2011
 
-{::comment}
+
 Work experience
 ======
 * Summer 2015: Research Assistant
