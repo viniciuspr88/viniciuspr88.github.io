@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
 
 
 # Reading Files
