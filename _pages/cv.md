@@ -17,18 +17,16 @@ Education
 * B.Sc. in Industrial Engineering, UFSCar, 2011
 
 
+
+
 Current Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor of Operations and Sustainability, Insper Institute of Education and Research, Brazil (2018 - Current)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Honorary Research Fellow, University of Strathclyde, UK (2023 - Current)
   
+<!--
+
 Skills
 ======
 * Skill 1
@@ -60,3 +58,6 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 {:/comment}
+
+-->
+
