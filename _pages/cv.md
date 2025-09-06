@@ -18,7 +18,7 @@ Education
 
 Current Employment
 ======
-* Assistant Professor of Operations and Sustainability, Insper Institute of Education and Research, Brazil (2018 - Current)
+* Assistant Professor of Operations and Sustainability, Insper, Brazil (2018 - Current)
 
 * Honorary Research Fellow, University of Strathclyde, UK (2023 - Current)
   
