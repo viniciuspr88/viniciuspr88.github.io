@@ -11,13 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial Engineering, DTU, 2018
-* GCLOG, Logistics and Supply Chain Management, MIT, 2014
-* M.Sc. in Operations Research, UFSCar, 2014
-* B.Sc. in Industrial Engineering, UFSCar, 2011
-
-
-
+* Ph.D in Industrial Engineering, Technical University of Denmark (DTU), 2018
+* GCLOG, Logistics and Supply Chain Management, Massachusetts Institute of Technology (MIT), 2014
+* M.Sc. in Operations Research, Federal University of São Carlos (UFSCar), 2014
+* B.Sc. in Industrial Engineering, Federal University of São Carlos (UFSCar), 2011
 
 Current Employment
 ======
@@ -25,6 +22,9 @@ Current Employment
 
 * Honorary Research Fellow, University of Strathclyde, UK (2023 - Current)
   
+
+For more details about my professional background, which includes positions in academia, third sector and consulting, please get in touch.
+
 <!--
 
 Skills
