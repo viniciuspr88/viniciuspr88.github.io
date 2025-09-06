@@ -12,11 +12,11 @@ We are currently facing a wide range of sustainability challenges that could lea
 
 Emphasizing a <a href="https://en.wikipedia.org/wiki/Pasteur%27s_quadrant" target="_blank">use-inspired approach to research</a>, I actively collaborate with various stakeholders, including industry partners, communities, government entities, and third-sector organizations. Together, we focus on the environmental and social impacts inherent in supply chains, striving to find innovative solutions. To address these complex challenges, I employ a diverse set of research methodologies drawn from operations research, system dynamics, applied social sciences, and complexity sciences. My particular interest lies in studying the profound effects of technological transitions on  food, energy, and humanitarian supply chains.
 
-My academic background includes a Ph.D. in Engineering from the Technical University of Denmark (DTU), as well as a Certificate in Logistics and Supply Chain Management from the Massachusetts Institute of Technology (MIT). During my Ph.D., I also had the opportunity to conduct research at MIT's Sloan School of Management. Prior to this, I completed my M.Sc. in Operations Research and a B.Sc. in Industrial Engineering at UFSCar. In addition to my academic pursuits, I have founded two award-winning technology startups in Brazil and a sustainable innovation consultancy in Denmark, while pursuing my Ph.D. These ventures have provided me with invaluable opportunities to translate cutting-edge research into practical applications.
+My academic background includes a Ph.D. in Industrial Engineering from the Technical University of Denmark (DTU), as well as a Graduate Certificate in Logistics and Supply Chain Management (GCLOG) from the Massachusetts Institute of Technology (MIT). During my Ph.D., I also had the opportunity to conduct research at MIT's Sloan School of Management. Prior to this, I completed my M.Sc. in Operations Research and a B.Sc. in Industrial Engineering at UFSCar. In addition to my academic pursuits, I have founded two award-winning technology startups in Brazil and a sustainable innovation consultancy in Denmark, while pursuing my Ph.D. These ventures have provided me with invaluable opportunities to translate cutting-edge research into practical applications.
 
 keywords
 ======
-sustainability; complex systems; system dynamics; supply chain management; operations research; food supply chains; humanitarian supply chains; ecological economics; systems engineering.
+sustainability; complex systems; system dynamics; supply chain management; operations research; systems engineering; food supply chains; humanitarian supply chains; ecological economics.
 
 ![climatestripes](viniciuspr88.github.io/images/climatestripes.jpg) <font size = "1"> Credits: Climate Stripes, Ed Hawkins, University of Reading </font>
 <br>
@@ -24,7 +24,7 @@ sustainability; complex systems; system dynamics; supply chain management; opera
 <br>
 [My Strathclyde page](https://pureportal.strath.ac.uk/en/persons/vinicius-picanco-rodrigues) 
 <br>
-[My Insper page (in Portuguese)](https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/vinicius-picanco-rodrigues/)
+[My Insper page (in Portuguese)](https://www.insper.edu.br/pt/docentes/vinicius-picanco-rodrigues)
 <br>
 [My Lattes CV (in Portuguese)](https://lattes.cnpq.br/6693329429907988)   
 
