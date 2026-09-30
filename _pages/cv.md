@@ -18,14 +18,15 @@ Education
 
 Employment
 ======
-* Associate Professor of Operations and Sustainability & Associate Dean of Industrial Engineering, Insper, Brazil (2026 - Current)
+* Associate Professor of Operations and Sustainability, Insper, Brazil (2026 - Current)
+
+* Associate Dean of Industrial Engineering, Insper, Brazil (2026 - Current)
 
 * Honorary Research Fellow, University of Strathclyde, UK (2023 - Current)
   
 * Assistant Professor of Operations and Sustainability, Insper, Brazil (2018 - Current)
   
-For more details about my professional background, which includes positions in academia, third sector and consulting, please get in touch.
-
+_For more details about my professional background, which includes positions in academia, third sector and consulting, please get in touch._
 <!--
 
 Skills
