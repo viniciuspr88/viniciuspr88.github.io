@@ -16,9 +16,9 @@ Education
 * M.Sc. in Operations Research, Federal University of São Carlos (UFSCar), 2014
 * B.Sc. in Industrial Engineering, Federal University of São Carlos (UFSCar), 2011
 
-Current Employment
+Employment
 ======
-* Associate Professor of Operations and Sustainability, Insper, Brazil (2026 - Current)
+* Associate Professor of Operations and Sustainability & Associate Dean of Industrial Engineering, Insper, Brazil (2026 - Current)
 
 * Honorary Research Fellow, University of Strathclyde, UK (2023 - Current)
   
